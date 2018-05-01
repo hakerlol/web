@@ -1,0 +1,25 @@
+body{
+   background-image: url("https://awllpaper.com/wp-content/uploads/2018/02/free-flower-wallpaper-for-desktop-free-flower-wallpaper-for-desktop-high-resolution-widescreen-llection-of-mputer-on-hd-iphone.jpg");
+}
+#test{
+    transition: 2s all;
+    background-color: white;
+    color: black;
+    padding: 15px;
+    margin: 15px;
+    border: 7px solid rebeccapurple;
+    border-radius: 20px;
+    opacity: 0.8;
+    box-shadow: -13px 13px 50px red;
+    width: 100px;
+    display: block;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 900;
+}
+
+#test:hover{;
+    transform: scale(1.3) rotate(360deg);
+    background-color: green;
+}
+
